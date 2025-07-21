@@ -49,8 +49,8 @@ const Nav = () => {
             </a>
           ))}
           <div className="flex gap-4 mt-4">
-            <img src="./src/assets/search.png" alt="search" className="w-6 h-6" />
-            <img src="./src/assets/cart.png" alt="cart" className="w-6 h-6" />
+            <img src="/assets/search.png" alt="search" className="w-6 h-6" />
+            <img src="/assets/cart.png" alt="cart" className="w-6 h-6" />
           </div>
         </div>
       )}

@@ -5,21 +5,21 @@ import gsap from 'gsap';
 const shoeOptions = [
     {
         color: 'Red',
-        image: './src/assets/shoe2.png',
+        image: '/assets/shoe2.png',
         name: 'NIKE JORDAN WHY NOT 6 - RED',
         price: 160,
         description: "Russell Westbrook’s 6th signature shoe in red is engineered for explosive speed. The bold red design adds intensity to your moves.",
     },
     {
         color: 'White',
-        image: './src/assets/shoe1.png',
+        image: '/assets/shoe1.png',
         name: 'NIKE JORDAN WHY NOT 6 - WHITE',
         price: 155,
         description: "This white edition brings a clean, classic look while offering maximum traction and comfort for dynamic performance on court.",
     },
     {
         color: 'Purple',
-        image: './src/assets/shoe3.png',
+        image: '/assets/shoe3.png',
         name: 'NIKE JORDAN WHY NOT 6 - PURPLE',
         price: 165,
         description: "The purple version combines futuristic design with full-speed support. Perfect for standing out while playing fast and smart.",

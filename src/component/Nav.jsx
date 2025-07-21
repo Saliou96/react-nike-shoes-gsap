@@ -10,7 +10,7 @@ const Nav = () => {
     <nav className="w-full px-6 py-4 md:px-20 flex items-center justify-between">
       {/* Logo */}
       <div className="flex items-center gap-2">
-        <img src="./src/assets/logo.png" alt="logo" className="w-24 md:w-32" />
+        <img src="/assets/logo.png" alt="logo" className="w-24 md:w-32" />
       </div>
 
       {/* Desktop Links */}
@@ -24,8 +24,8 @@ const Nav = () => {
 
       {/* Icons */}
       <div className="hidden md:flex gap-4 items-center text-2xl">
-        <img src="./src/assets/search.png" alt="search" className="w-6 h-6" />
-        <img src="./src/assets/cart.png" alt="cart" className="w-6 h-6" />
+        <img src="/assets/search.png" alt="search" className="w-6 h-6" />
+        <img src="/assets/cart.png" alt="cart" className="w-6 h-6" />
       </div>
 
       {/* Hamburger (mobile) */}
